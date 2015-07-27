@@ -1,0 +1,7 @@
+#setup
+- Clone this repo: `git clone git+https://github.com/LeiZeng/js-tdd-workshop-seed.git`
+- Install dependencies: `npm i`
+
+#test
+- run test cases: `npm test`
+- check code style: `npm run style`
