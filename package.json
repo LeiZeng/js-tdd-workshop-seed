@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-workshop-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec -u tdd --check-leaks",
+    "style": "jshint src test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeiZeng/js-tdd-workshop-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeiZeng/js-tdd-workshop-seed/issues"
+  },
+  "homepage": "https://github.com/LeiZeng/js-tdd-workshop-seed#readme",
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.5"
+  }
+}
